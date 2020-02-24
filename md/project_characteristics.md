@@ -1,1 +1,0 @@
-hello project_characteristics.md
