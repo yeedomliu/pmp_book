@@ -2,8 +2,8 @@
 
 * [介绍](README.md)
   * [历史](history.md)
-  * [企业类型](types_of_enterprises.md)
-  * [项目特征](project_characteristics.md)
+  * [企业类型](md/types_of_enterprises.md)
+  * [项目特征](md/project_characteristics.md)
   * [项目管理的目标](objectives_of_project_management.md)
   * [项目工基本与成本的关系](history.md)
   * [项目管理目标的演变](history.md)
