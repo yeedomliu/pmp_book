@@ -9,4 +9,4 @@ gitbook build
 
 cp -a _book/* .
 
-gc && gp
+git add -A && git commit -a -m "automate_submit" && git push
