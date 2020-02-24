@@ -6,3 +6,4 @@ vendor/
 web/assets/
 tmp/
 .idea
+_book/
