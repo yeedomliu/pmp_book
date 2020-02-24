@@ -9,7 +9,4 @@ gitbook build
 
 cp -a _book/* .
 
-gc
-
-gp
-
+gc && gp
