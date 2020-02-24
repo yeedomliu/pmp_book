@@ -1,9 +1,0 @@
-.*
-!.gitignore
-config/development-local.conf.php
-runtime/
-vendor/
-web/assets/
-tmp/
-.idea
-_book/
